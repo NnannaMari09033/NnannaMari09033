@@ -1,12 +1,26 @@
-- 👋 Hi, my name is Mari
-- 👀 I’m interested in web development backend to be precise
-- 🌱 I’m currently learning backend development python/django/DRF for now then postgreSQL/Docker/AWS later 
-- 💞️ I’m looking to collaborate with experienced web developers
-- 📫 How to reach me: (nnannamari@gmail.com)
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: i am a tech  enthusiast, i love fashion and i crochet as a hobby
 
-<!---
-NnannaMari09033/NnannaMari09033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Mari Nnanna
+I'm a tech enthusiast and backend developer with a passion for solving real-world problems through code.
+
+👀 Interests
+Specializing in web development, with a focus on backend technologies.
+💼 Skills
+Python
+Django
+Django REST Framework (DRF)
+RESTful APIs
+PostgreSQL
+Linux OS
+💼 Collaboration Goals
+I’m excited to collaborate with experienced web developers to build impactful projects, share knowledge, and grow together.
+
+📬 Reach Me
+Email: nnannamari@gmail.com
+🌸 Pronouns
+She/Her
+⚡ Fun Fact
+When I’m not coding, you’ll find me:
+
+Exploring the latest tech trends
+Styling up with fashion
+Crafting beautiful pieces through crochet
